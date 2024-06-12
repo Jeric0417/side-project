@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : CORDIC
+Version: T-2022.03
+Date   : Sat Jun  1 15:15:39 2024
+****************************************
+
+Library(s) Used:
+
+    slow (File: /usr/cad/Design_Kit/CBDK_IC_Contest_v2.5/SynopsysDC/db/slow.db)
+
+Number of ports:                        35792
+Number of nets:                         99095
+Number of cells:                        50664
+Number of combinational cells:          39601
+Number of sequential cells:             10107
+Number of macros/black boxes:               0
+Number of buf/inv:                       3136
+Number of references:                     571
+
+Combinational area:             674643.527880
+Buf/Inv area:                    15947.072748
+Noncombinational area:          185765.160885
+Macro/Black Box area:                0.000000
+Net Interconnect area:      undefined  (No wire load specified)
+
+Total cell area:                860408.688765
+Total area:                 undefined
+1
