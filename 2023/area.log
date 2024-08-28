@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : LASER
+Version: T-2022.03
+Date   : Sat Jul 27 11:33:42 2024
+****************************************
+
+Library(s) Used:
+
+    slow (File: /usr/cad/Design_Kit/CBDK_IC_Contest_v2.5/SynopsysDC/db/slow.db)
+
+Number of ports:                           27
+Number of nets:                          2452
+Number of cells:                         2382
+Number of combinational cells:           1893
+Number of sequential cells:               489
+Number of macros/black boxes:               0
+Number of buf/inv:                        589
+Number of references:                      94
+
+Combinational area:              16673.560042
+Buf/Inv area:                     2524.033766
+Noncombinational area:           12762.750767
+Macro/Black Box area:                0.000000
+Net Interconnect area:          281588.111786
+
+Total cell area:                 29436.310809
+Total area:                     311024.422595
+1
