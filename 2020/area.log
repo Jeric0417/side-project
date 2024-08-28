@@ -1,0 +1,30 @@
+ 
+****************************************
+Report : area
+Design : SME
+Version: T-2022.03
+Date   : Wed Jul  3 23:31:59 2024
+****************************************
+
+Library(s) Used:
+
+    slow (File: /usr/cad/Design_Kit/CBDK_IC_Contest_v2.5/SynopsysDC/db/slow.db)
+
+Number of ports:                          162
+Number of nets:                          7828
+Number of cells:                         7240
+Number of combinational cells:           6803
+Number of sequential cells:               415
+Number of macros/black boxes:               0
+Number of buf/inv:                        735
+Number of references:                     102
+
+Combinational area:              61749.714926
+Buf/Inv area:                     4189.183131
+Noncombinational area:           15278.297268
+Macro/Black Box area:                0.000000
+Net Interconnect area:         1117438.925049
+
+Total cell area:                 77028.012194
+Total area:                    1194466.937243
+1
